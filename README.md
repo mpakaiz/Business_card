@@ -11,6 +11,6 @@ e-mail: pavel_zavartsev@mail.ru
 
 Тел.: +7 (926) 350-37-90
 
-Примеры работ можно найти на моем [GitHub](https://github.com/mpakaiz):
+Примеры работ можно найти на моем [GitHub](https://github.com/mpakaiz).
 
 
